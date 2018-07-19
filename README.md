@@ -1,3 +1,5 @@
+[![App Logo](./app-image.png)](https://www.youtube.com/watch?v=Ea2lWsumTrM) 
+
 [![Angular Logo](./logo-angular.jpg)](https://angular.io/) [![Electron Logo](./logo-electron.jpg)](https://electron.atom.io/)
 
 [![Travis Build Status][build-badge]][build]
